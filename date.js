@@ -11,6 +11,7 @@ exports.getDate = () => {
     return day;
 }
 
+// sample comments for git test
 exports.getDay = () => {
     let today = new Date();
     let currentDay = today.getDay();
